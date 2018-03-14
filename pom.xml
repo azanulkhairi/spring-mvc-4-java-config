@@ -10,6 +10,7 @@
   
    <properties>
         <encoding>UTF-8</encoding>
+      <tomcat.version>7.0.52</tomcat.version>
         <spring.version>4.2.6.RELEASE</spring.version>
     </properties>
   
